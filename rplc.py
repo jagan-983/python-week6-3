@@ -1,0 +1,5 @@
+str1 = input("enter a string:")
+str2 = input("enter which character you want to replace:")
+str3 = input("enter to replace which you insert:")
+replace = str1.replace(str2,str3)
+print("after to replace the string:",replace)
